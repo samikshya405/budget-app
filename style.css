@@ -1,0 +1,27 @@
+
+
+.col-5{
+    border: 2px solid green;
+    padding: 10px;
+}
+.fa-credit-card,.fa-dollar-sign,.fa-money-bill{
+    font-size: 50px;
+    padding: 20px 0px;
+    color: blue;
+}
+.total-expenses{
+    color: red;
+}
+.total-budget,.total-balance{
+    color: green;
+}
+.container{
+    margin-top: 50px;
+}
+
+
+.list-row{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+}
